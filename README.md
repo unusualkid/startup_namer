@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter project.
+A Flutter project that shows a list of startup names, generated randomly with the [english_words](https://flutter.dev/docs/get-started/codelab) package. Users can favorite these names and click on the top right menu icon to see the list of favorites he created.
 
 ## Getting Started
 
